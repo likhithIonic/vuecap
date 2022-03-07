@@ -2,5 +2,5 @@
 	"appId": "io.ionic.starter",
 	"appName": "vuecap",
 	"webDir": "dist",
-	"plugins": {}
+	"bundledWebRuntime": false
 }
